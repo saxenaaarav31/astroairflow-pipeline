@@ -1,2 +1,4 @@
 project:
     name: astroairflow-pipeline
+postgres:
+    port: "5433"
